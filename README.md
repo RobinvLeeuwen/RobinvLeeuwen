@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobinvLeeuwen
-- 👀 I’m interested in using date to help store operators
+- 👀 I’m interested in using data to help store operators malke the better choices
 - 🌱 I’m currently learning how to code using python
 - 💞️ I’m looking to collaborate on inovating solutions
 - 📫 How to reach me ...
